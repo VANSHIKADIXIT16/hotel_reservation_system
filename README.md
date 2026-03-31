@@ -1,5 +1,7 @@
 # hotel_reservation_system
-**VANSHIKA DIXIT, 2401010010**
+**(VANSHIKA DIXIT, 2401010010)**
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The Hotel Reservation System is a database management project designed to efficiently manage hotel operations such as guest information, room availability, and booking details. This system uses structured tables to store data related to guests, rooms, reservations, and payments, ensuring organized and reliable data handling.
 
 The main objective of this system is to simplify the process of room booking, track reservation status, and maintain records of customer transactions. It allows users to check room availability, manage bookings, and calculate total charges based on the duration of stay.
